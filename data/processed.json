@@ -1,0 +1,3332 @@
+[
+  {
+    "affiliates": [],
+    "key": "nd036",
+    "title": "Product Manager",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "Product Marketing",
+      "Pricing Strategy",
+      "Market Research",
+      "Product Management"
+    ],
+    "average_rating": 4.568627450980392,
+    "count": 51,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 32,
+        "percentage": 62.745098039215684,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 17,
+        "percentage": 33.333333333333336,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 1,
+        "percentage": 1.9607843137254901,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 1.9607843137254901,
+        "_id": 2
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd054",
+    "title": "AI for Business Leaders",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Deep Learning",
+      "Unsupervised Learning",
+      "Computer Vision",
+      "Supervised Learning",
+      "Natural Language Processing",
+      "Artificial Intelligence for Business",
+      "ML Strategy",
+      "AI Strategy",
+      "Business AI",
+      "Business ML",
+      "Business Growth",
+      "Machine Learning for Business",
+      "AI for Business"
+    ],
+    "average_rating": 5,
+    "count": 2,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 2,
+        "percentage": 100,
+        "_id": 5
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-kaggle.svg",
+        "key": "kaggle",
+        "name": "Kaggle"
+      },
+      {
+        "image": "",
+        "key": "aws",
+        "name": "AWS"
+      }
+    ],
+    "key": "nd230",
+    "title": "Intro to Machine Learning with TensorFlow",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "Machine Learning",
+      "Google"
+    ],
+    "average_rating": 4.8478260869565215,
+    "count": 46,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 39,
+        "percentage": 84.78260869565217,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 7,
+        "percentage": 15.217391304347826,
+        "_id": 4
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd578",
+    "title": "UX Designer",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "UX",
+      "UI",
+      "Wireframing",
+      "Product Design",
+      "UX/UI",
+      "UX Designer"
+    ],
+    "average_rating": 4.724324324324325,
+    "count": 185,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 145,
+        "percentage": 78.37837837837837,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 32,
+        "percentage": 17.2972972972973,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 6,
+        "percentage": 3.2432432432432434,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.5405405405405406,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 0.5405405405405406,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd029",
+    "title": "Data Streaming",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "faust",
+      "python",
+      "ksql",
+      "sparksql",
+      "apache avro",
+      "apache",
+      "avro"
+    ],
+    "average_rating": 3.8840579710144927,
+    "count": 68,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 28,
+        "percentage": 40.57971014492754,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 20,
+        "percentage": 28.985507246376812,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 11,
+        "percentage": 15.942028985507246,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 7.246376811594203,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 5,
+        "percentage": 7.246376811594203,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd0011",
+    "title": "Front End Web Developer",
+    "level": "intermediate",
+    "num_of_projects": 6,
+    "tags": [
+      "object oriented",
+      "object-oriented",
+      "UI",
+      "UX",
+      "User Interface",
+      "frontend",
+      "front-end",
+      "programming",
+      "interface",
+      "responsive",
+      "html",
+      "javascript"
+    ],
+    "average_rating": 4.5565610859728505,
+    "count": 221,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 159,
+        "percentage": 71.94570135746606,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 39,
+        "percentage": 17.647058823529413,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 14,
+        "percentage": 6.334841628959276,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 2.262443438914027,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 1.8099547511312217,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd0044",
+    "title": "Full Stack Web Developer",
+    "level": "intermediate",
+    "num_of_projects": 5,
+    "tags": [
+      "computer science",
+      "front-end",
+      "frontend",
+      "javascript",
+      "coding",
+      "backend",
+      "code"
+    ],
+    "average_rating": 4.536585365853658,
+    "count": 164,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 109,
+        "percentage": 66.46341463414635,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 43,
+        "percentage": 26.21951219512195,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 7,
+        "percentage": 4.2682926829268295,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.6097560975609756,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 2.4390243902439024,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd035",
+    "title": "Java Developer",
+    "level": "Intermediate",
+    "num_of_projects": 4,
+    "tags": [
+      "Persistent layers",
+      "Jenkins",
+      "CI/CD",
+      "Microservices",
+      "GraphQL",
+      "Data Stores",
+      "Springboot",
+      "REST Api",
+      "MongoDB for java",
+      "Springboot Serviet",
+      "Data Structures and Algorithms",
+      "Javadev",
+      "Java certification",
+      "java programming",
+      "OOP Java",
+      "Crash course java",
+      "Android java",
+      "Spring",
+      "java training",
+      "java tutorial",
+      "learn java",
+      "java",
+      "java nanodegree"
+    ],
+    "average_rating": 2.90625,
+    "count": 32,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 7,
+        "percentage": 21.875,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 5,
+        "percentage": 15.625,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 6,
+        "percentage": 18.75,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 18.75,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 8,
+        "percentage": 25,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "figure-eight",
+        "name": "Figure Eight"
+      }
+    ],
+    "key": "nd088",
+    "title": "AI Product Manager",
+    "level": "Beginner",
+    "num_of_projects": 3,
+    "tags": [
+      "AI Product Manager",
+      "AI in business",
+      "ML in business",
+      "Google Auto ML",
+      "Product management",
+      "AI for managers",
+      "ML for Managers"
+    ],
+    "average_rating": 4.252252252252252,
+    "count": 215,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 126,
+        "percentage": 56.75675675675676,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 52,
+        "percentage": 23.423423423423422,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 27,
+        "percentage": 12.162162162162161,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 8,
+        "percentage": 3.6036036036036037,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 9,
+        "percentage": 4.054054054054054,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "logo-white-mercedesbenz.svg",
+        "key": "mercedes-benz",
+        "name": "Mercedes"
+      }
+    ],
+    "key": "nd313",
+    "title": "Sensor Fusion Engineer",
+    "level": "Advanced",
+    "num_of_projects": 4,
+    "tags": [
+      "Lidar",
+      "Radar",
+      "Kalman Filters",
+      "Radar Calibration",
+      "Radar Detection",
+      "Sensor Fusion",
+      "Robots",
+      "Radar Signatures",
+      "Lidar Point Cloud",
+      "Autonomous driving",
+      "Sensor fusion Engineering Course"
+    ],
+    "average_rating": 4.72093023255814,
+    "count": 82,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 67,
+        "percentage": 77.90697674418605,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 15,
+        "percentage": 17.441860465116278,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 3,
+        "percentage": 3.488372093023256,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 1.1627906976744187,
+        "_id": 2
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd197",
+    "title": "Data Visualization",
+    "level": "Beginner",
+    "num_of_projects": 4,
+    "tags": [
+      "data visualization",
+      "Build Dashboard",
+      "Dashboard Design",
+      "Data Presentation",
+      "Animate Data Story",
+      "Data Narration",
+      "Data Analytics ",
+      "Business Analytics ",
+      "Story telling ",
+      "No Coding",
+      "Data Analysis with Tableau",
+      "Data Visualizaton Couse"
+    ],
+    "average_rating": 4.688888888888888,
+    "count": 45,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 35,
+        "percentage": 77.77777777777777,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 8,
+        "percentage": 17.77777777777778,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 1,
+        "percentage": 2.2222222222222223,
+        "_id": 3
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 2.2222222222222223,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd9990",
+    "title": "Cloud Developer",
+    "level": "Intermediate ",
+    "num_of_projects": 5,
+    "tags": [
+      "cloud engineering",
+      "Cloud Basics",
+      "Cloud Foundation",
+      "AWS",
+      "Cloud Computing",
+      "Deployment on cloud",
+      "kubernetes",
+      "Docker",
+      "Microservices",
+      "Serverless",
+      "Linux Basic",
+      "Servers",
+      "Cloud Developer AWS",
+      "Cloud Engineers",
+      "Cloud developer",
+      "Google Cloud Developer"
+    ],
+    "average_rating": 4.376404494382022,
+    "count": 177,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 116,
+        "percentage": 65.1685393258427,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 33,
+        "percentage": 18.53932584269663,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 16,
+        "percentage": 8.98876404494382,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 3.3707865168539324,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 7,
+        "percentage": 3.932584269662921,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd9991",
+    "title": "Cloud DevOps Engineer",
+    "level": "Intermediate ",
+    "num_of_projects": 5,
+    "tags": [
+      "cloud",
+      "devops",
+      "Cloud Basics",
+      "Cloud Foundation",
+      "AWS",
+      "Cloud Computing",
+      "CI/CD pipeline",
+      "Cloud Formation",
+      "Networking infrastrucutre",
+      "Servers",
+      "Orchestrate Kubernetes",
+      "Linux Basic",
+      "Networking",
+      "Cloud DevOps Engineer",
+      "Kubernetes"
+    ],
+    "average_rating": 4.474860335195531,
+    "count": 179,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 116,
+        "percentage": 64.80446927374301,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 45,
+        "percentage": 25.139664804469273,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 6,
+        "percentage": 3.35195530726257,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 11,
+        "percentage": 6.145251396648045,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 0.5586592178770949,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-kaggle.svg",
+        "key": "kaggle",
+        "name": "Kaggle"
+      },
+      {
+        "image": "",
+        "key": "aws",
+        "name": "AWS"
+      }
+    ],
+    "key": "nd229",
+    "title": "Intro to Machine Learning with PyTorch",
+    "level": "Beginner",
+    "num_of_projects": 4,
+    "tags": [
+      "pyhton",
+      "python",
+      "sql",
+      "predictive",
+      "supervised",
+      "unsupervised",
+      "machine learning",
+      "Machine learning basic",
+      "Supervised Learning",
+      "Unsupervised",
+      "Deep Learning",
+      "AI",
+      "Data Science",
+      "Python",
+      "ML Algorithm",
+      "Numpy ",
+      "Pandas",
+      "Predtictive Model",
+      "Machine Learning Model",
+      "Regression",
+      "Decision Trees",
+      "Naive Bayes",
+      "Neural Networks",
+      "Pytorch"
+    ],
+    "average_rating": 4.748148148148148,
+    "count": 129,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 105,
+        "percentage": 77.77777777777777,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 26,
+        "percentage": 19.25925925925926,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 4,
+        "percentage": 2.962962962962963,
+        "_id": 3
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd213",
+    "title": "C++",
+    "level": "Intermediate",
+    "num_of_projects": 5,
+    "tags": [
+      "classes",
+      "structures",
+      "pointers",
+      "leakage",
+      "functions",
+      "threads",
+      "polymorphism",
+      "C++",
+      "OOP",
+      "C++ App",
+      "memory management",
+      "Concurrent programming",
+      "Data Structures and Algorithms",
+      "Smart  Pointers",
+      "Parallel Programming",
+      "Chat bot",
+      "C++ tutorial"
+    ],
+    "average_rating": 4.466367713004485,
+    "count": 219,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 149,
+        "percentage": 66.81614349775785,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 45,
+        "percentage": 20.179372197309416,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 18,
+        "percentage": 8.071748878923767,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 2.690582959641256,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 5,
+        "percentage": 2.242152466367713,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd256",
+    "title": "Data Structures and Algorithms",
+    "level": "Intermediate",
+    "num_of_projects": 4,
+    "tags": [
+      "big O notiation",
+      "recursion",
+      "trees",
+      "maps",
+      "hashing",
+      "binary search",
+      "sorting",
+      "greedy",
+      "graph",
+      "linear",
+      "dynamic",
+      "Python",
+      "Data Strcuture",
+      "Basic Algorithm",
+      "Advance Algorithm",
+      "Lists",
+      "Arrays",
+      "Stack"
+    ],
+    "average_rating": 4.547872340425531,
+    "count": 181,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 143,
+        "percentage": 76.06382978723404,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 21,
+        "percentage": 11.170212765957446,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 13,
+        "percentage": 6.914893617021277,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 3.1914893617021276,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 5,
+        "percentage": 2.6595744680851063,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd118",
+    "title": "Programming for Data Science with R",
+    "level": "beginner",
+    "num_of_projects": 3,
+    "tags": [
+      "R",
+      "nd118",
+      "SQL",
+      "Advance SQl",
+      "Basic Data Science",
+      "Data Science",
+      "intro to data science",
+      "data science foundation",
+      "GIT",
+      "Intro to R",
+      "R for data science",
+      "data analysis with R",
+      "Data analytics with R"
+    ],
+    "average_rating": 4.833333333333333,
+    "count": 12,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 10,
+        "percentage": 83.33333333333333,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 2,
+        "percentage": 16.666666666666668,
+        "_id": 4
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd027",
+    "title": "Data Engineer",
+    "level": "intermediate",
+    "num_of_projects": 6,
+    "tags": [
+      "data pipelines",
+      "data lakes",
+      "Data model",
+      "Apache Cassandra",
+      "PostgreSQL",
+      "Data Warehouse",
+      "Cloud with AWS",
+      "Data Infrastucture on Cloud",
+      "Data Lakes",
+      "Data Wrangling",
+      "Big data ",
+      "Data Pipeline",
+      "Dataset",
+      "Data Science",
+      "Data Engineering",
+      "Data Storage",
+      "Data Processing",
+      "Data engineerig bootcamp",
+      "Roadmap to data engineer"
+    ],
+    "average_rating": 4.481228668941979,
+    "count": 283,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 197,
+        "percentage": 67.23549488054607,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 62,
+        "percentage": 21.160409556313994,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 19,
+        "percentage": 6.484641638225256,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 8,
+        "percentage": 2.7303754266211606,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 7,
+        "percentage": 2.3890784982935154,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd028",
+    "title": "Marketing Analytics",
+    "level": "beginner",
+    "num_of_projects": 8,
+    "tags": [
+      "digital marketing",
+      "google",
+      "Data Analytics",
+      "Data Visualisation",
+      "Excel",
+      "Descriptive statistics ",
+      "Tableau",
+      "Build Dashboard",
+      "Data Storytelling",
+      "manipulate data",
+      "making dashboard",
+      "macro digital analysis",
+      "marketing",
+      "No Coding",
+      "Market Research Analyst"
+    ],
+    "average_rating": 4.69620253164557,
+    "count": 76,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 63,
+        "percentage": 79.74683544303798,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 11,
+        "percentage": 13.924050632911392,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 3,
+        "percentage": 3.7974683544303796,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 1.2658227848101267,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 1.2658227848101267,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd000",
+    "title": "Introduction to Programming",
+    "level": "beginner",
+    "num_of_projects": 5,
+    "tags": [
+      "python",
+      "css",
+      "html",
+      "javascript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Basic coding",
+      "Basic programming",
+      "Learn Coding",
+      "Learn Programming",
+      "Programming "
+    ],
+    "average_rating": 4.6279802069275755,
+    "count": 1215,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1660,
+        "percentage": 74.67386414754836,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 412,
+        "percentage": 18.533513270355375,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 79,
+        "percentage": 3.5537561853351325,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 31,
+        "percentage": 1.3945119208277104,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 41,
+        "percentage": 1.8443544759334234,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-kaggle.svg",
+        "key": "kaggle",
+        "name": "Kaggle"
+      },
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-mode.svg",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd002",
+    "title": "Data Analyst",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Dataset",
+      "Data Science",
+      "Data Storage",
+      "Data Processing",
+      "Analytics",
+      "Data Frames",
+      "Numpy ",
+      "Pandas",
+      "Data Wrangling",
+      "Data Python",
+      "SQL",
+      "Buisness Data Analyst",
+      "Descriptive Statistics",
+      "Inferential Statistics",
+      "Statistics"
+    ],
+    "average_rating": 4.560142711518858,
+    "count": 984,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1423,
+        "percentage": 72.52803261977574,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 368,
+        "percentage": 18.75637104994903,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 81,
+        "percentage": 4.128440366972477,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 27,
+        "percentage": 1.3761467889908257,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 63,
+        "percentage": 3.2110091743119265,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-kaggle-dc766e9.svg",
+        "key": "kaggle",
+        "name": "kaggle"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-tableau-cf029ff.svg",
+        "key": "tableau",
+        "name": "Tableau"
+      },
+      {
+        "image": "https://d1ibls858tcqkq.cloudfront.net/affiliates/logo-color-mode.svg",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd002-ent",
+    "title": "Become a Data Analyst",
+    "level": "intermediate",
+    "num_of_projects": 22,
+    "tags": [
+      "r",
+      "hadoop",
+      "python",
+      "d3"
+    ],
+    "average_rating": 4.722488038277511,
+    "count": 161,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 170,
+        "percentage": 81.33971291866028,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 29,
+        "percentage": 13.875598086124402,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 5,
+        "percentage": 2.3923444976076556,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.4784688995215311,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 1.9138755980861244,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-att.svg",
+        "key": "att",
+        "name": "AT&T"
+      },
+      {
+        "image": "",
+        "key": "lyft",
+        "name": "Lyft"
+      },
+      {
+        "image": "",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd003",
+    "title": "iOS Developer",
+    "level": "intermediate",
+    "num_of_projects": 14,
+    "tags": [
+      "swift",
+      "iOS",
+      "Swift",
+      "Make App",
+      "Make iOS App",
+      "Build iOS App",
+      "iOS App Development",
+      "iPhone App",
+      "iPad App",
+      "Build iPad App",
+      "Build iPhone App",
+      "App Development"
+    ],
+    "average_rating": 4.610305958132045,
+    "count": 301,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 456,
+        "percentage": 73.42995169082126,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 111,
+        "percentage": 17.8743961352657,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 37,
+        "percentage": 5.958132045088567,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 11,
+        "percentage": 1.7713365539452497,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 6,
+        "percentage": 0.966183574879227,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "att",
+        "name": "AT&T"
+      },
+      {
+        "image": "",
+        "key": "lyft",
+        "name": "Lyft"
+      },
+      {
+        "image": "",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd003-br",
+    "title": "iOS Developer",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [],
+    "average_rating": 5,
+    "count": 0,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 4,
+        "percentage": 100,
+        "_id": 5
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-alteryx.svg",
+        "key": "alteryx",
+        "name": "Alteryx"
+      },
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-tableau.svg",
+        "key": "tableau",
+        "name": "Tableau"
+      }
+    ],
+    "key": "nd008t",
+    "title": "Predictive Analytics for Business",
+    "level": "intermediate",
+    "num_of_projects": 8,
+    "tags": [
+      "Data Analytics",
+      "No Coding",
+      "Alyterx",
+      "Tableau",
+      "Data Formatting",
+      "Data Blending",
+      "Forecasting",
+      "Business Anaytics"
+    ],
+    "average_rating": 4.641666666666667,
+    "count": 106,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 91,
+        "percentage": 75.83333333333333,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 19,
+        "percentage": 15.833333333333334,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 8,
+        "percentage": 6.666666666666667,
+        "_id": 3
+      },
+      {
+        "rating": 1,
+        "count": 2,
+        "percentage": 1.6666666666666667,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-alteryx-9aac6df.svg",
+        "key": "5448383925583872",
+        "name": "Alteryx"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-tableau-cf029ff.svg",
+        "key": "tableau",
+        "name": "Tableau"
+      }
+    ],
+    "key": "nd008-ent",
+    "title": "Business Analyst for Enterprise",
+    "level": "beginner",
+    "num_of_projects": 9,
+    "tags": [],
+    "average_rating": 4.548387096774194,
+    "count": 11,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 22,
+        "percentage": 70.96774193548387,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 7,
+        "percentage": 22.580645161290324,
+        "_id": 4
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 3.225806451612903,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 3.225806451612903,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-alteryx-9aac6df.svg",
+        "key": "5448383925583872",
+        "name": "Alteryx"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-tableau-cf029ff.svg",
+        "key": "tableau",
+        "name": "Tableau"
+      }
+    ],
+    "key": "nd008",
+    "title": "Business Analyst",
+    "level": "beginner",
+    "num_of_projects": 9,
+    "tags": [],
+    "average_rating": 4.570621468926553,
+    "count": 162,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 259,
+        "percentage": 73.1638418079096,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 66,
+        "percentage": 18.64406779661017,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 12,
+        "percentage": 3.389830508474576,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 1.694915254237288,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 11,
+        "percentage": 3.1073446327683616,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-kaggle.svg",
+        "key": "kaggle",
+        "name": "Kaggle"
+      },
+      {
+        "image": "",
+        "key": "aws",
+        "name": "AWS"
+      }
+    ],
+    "key": "nd009t",
+    "title": "Machine Learning Engineer",
+    "level": "advanced",
+    "num_of_projects": 4,
+    "tags": [
+      "python",
+      "Machine Learning",
+      "Deep learning",
+      "AI",
+      "Amazon Sagemaker",
+      "ML algorithms",
+      "Clustering",
+      "Supervised learning",
+      "Unsupervised learning",
+      "neural network",
+      "Detector",
+      "Sentiment Analysis"
+    ],
+    "average_rating": 4.533333333333333,
+    "count": 247,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 249,
+        "percentage": 72.17391304347827,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 58,
+        "percentage": 16.81159420289855,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 23,
+        "percentage": 6.666666666666667,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 3,
+        "percentage": 0.8695652173913043,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 12,
+        "percentage": 3.4782608695652173,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-mercedesbenz-48a7bb7.svg",
+        "key": "mercedes-benz",
+        "name": "Mercedes"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-nvidia-9b4602c.svg",
+        "key": "nvidia",
+        "name": "Nvidia"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-uberatg-e4d3191.svg",
+        "key": "uberatg",
+        "name": "Uber ATG"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-didi-b6e8ef9.svg",
+        "key": "didi",
+        "name": "Didi"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-bmw-2409504.svg",
+        "key": "bmw",
+        "name": "BMW"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-mclaren-0377ec9.svg",
+        "key": "mclaren",
+        "name": "McLaren"
+      }
+    ],
+    "key": "nd013",
+    "title": "Self Driving Car Engineer",
+    "level": "advanced",
+    "num_of_projects": 14,
+    "tags": [
+      "Computer Vision",
+      "Sensor Fusion",
+      "Localization",
+      "path planning",
+      "Robotics",
+      "Control",
+      "Deep learning",
+      "TensorFlow",
+      "Deep neural Network",
+      "convolutional neural network",
+      "keras",
+      "Markov Localization",
+      "Behaviour planning",
+      "PID control",
+      "Autonomous Vehicle Architecture",
+      "ROS",
+      "Vehicle Dynamics"
+    ],
+    "average_rating": 4.7467652495378925,
+    "count": 520,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 897,
+        "percentage": 82.90203327171903,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 130,
+        "percentage": 12.014787430683919,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 31,
+        "percentage": 2.865064695009242,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 14,
+        "percentage": 1.2939001848428835,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 10,
+        "percentage": 0.9242144177449169,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-unity-5351e60.svg",
+        "key": "unity",
+        "name": "Unity"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-googlevr-117b149.svg",
+        "key": "google-vr",
+        "name": "Google VR"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-vive-ed1d965.svg",
+        "key": "vive",
+        "name": "Vive"
+      },
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-samsung-6aee60d.svg",
+        "key": "samsung",
+        "name": "Samsung"
+      }
+    ],
+    "key": "nd017",
+    "title": "VR Developer",
+    "level": "intermediate",
+    "num_of_projects": 13,
+    "tags": [
+      "unity",
+      "vr",
+      "virtual reality",
+      "unreal"
+    ],
+    "average_rating": 4.348242811501597,
+    "count": 159,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 210,
+        "percentage": 67.09265175718849,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 48,
+        "percentage": 15.335463258785943,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 24,
+        "percentage": 7.667731629392971,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 16,
+        "percentage": 5.111821086261981,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 15,
+        "percentage": 4.792332268370607,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-facebook-blueprint.svg",
+        "key": "facebook-blueprint",
+        "name": "Facebook Blueprint"
+      },
+      {
+        "image": "",
+        "key": "google",
+        "name": "Google"
+      },
+      {
+        "image": "",
+        "key": "hootsuite",
+        "name": "Hootsuite"
+      },
+      {
+        "image": "",
+        "key": "hubspot",
+        "name": "HubSpot"
+      },
+      {
+        "image": "",
+        "key": "mailchimp",
+        "name": "MailChimp"
+      },
+      {
+        "image": "",
+        "key": "moz",
+        "name": "Moz"
+      }
+    ],
+    "key": "nd018",
+    "title": "Digital Marketing",
+    "level": "beginner",
+    "num_of_projects": 8,
+    "tags": [
+      "No Coding",
+      "Social Media Marketing",
+      "Social Media Advertising",
+      "SEO",
+      "Search Engine Optimization",
+      "SEM",
+      "Display Advertising",
+      "Email Marketing",
+      "Facebook Ads",
+      "Content Marketing",
+      "Video Advertising",
+      "Google Anlytics",
+      "Marketing Anlytics"
+    ],
+    "average_rating": 4.681858019281332,
+    "count": 663,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 895,
+        "percentage": 78.43996494303242,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 172,
+        "percentage": 15.074496056091148,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 46,
+        "percentage": 4.031551270815075,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 13,
+        "percentage": 1.1393514460999123,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 15,
+        "percentage": 1.3146362839614374,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd019",
+    "title": "React",
+    "level": "intermediate",
+    "num_of_projects": 3,
+    "tags": [
+      "React",
+      "Front-end ",
+      "Redux",
+      "React Native",
+      "React Native app",
+      "Hybrid App",
+      "UI",
+      "UX",
+      "ReactJS",
+      "React Javascript"
+    ],
+    "average_rating": 4.58843537414966,
+    "count": 308,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 451,
+        "percentage": 76.70068027210884,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 82,
+        "percentage": 13.945578231292517,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 26,
+        "percentage": 4.421768707482993,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 8,
+        "percentage": 1.3605442176870748,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 21,
+        "percentage": 3.5714285714285716,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd024",
+    "title": "Mobile Web Specialist",
+    "level": "advanced",
+    "num_of_projects": 3,
+    "tags": [],
+    "average_rating": 4.807228915662652,
+    "count": 163,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 287,
+        "percentage": 86.44578313253012,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 36,
+        "percentage": 10.843373493975903,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 3,
+        "percentage": 0.9036144578313253,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 2,
+        "percentage": 0.6024096385542169,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 1.2048192771084338,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd025",
+    "title": "Data Scientist",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "Data Analytics",
+      "Python",
+      "Data Wrangling",
+      "ETL pipeline",
+      "Natural Langugae Processing",
+      "NLP",
+      "ML pipeline",
+      "spark"
+    ],
+    "average_rating": 4.527559055118109,
+    "count": 217,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 182,
+        "percentage": 71.65354330708661,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 45,
+        "percentage": 17.716535433070867,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 14,
+        "percentage": 5.511811023622047,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 1.968503937007874,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 8,
+        "percentage": 3.1496062992125986,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd089",
+    "title": "AI Programming with Python",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "Python",
+      "Numpy ",
+      "Pandas",
+      "neural network",
+      "Anaconda",
+      "Jupyter notebook",
+      "MATPLOTLIB",
+      "Neural network",
+      "pytorch"
+    ],
+    "average_rating": 4.548165137614679,
+    "count": 295,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 328,
+        "percentage": 75.22935779816514,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 60,
+        "percentage": 13.761467889908257,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 21,
+        "percentage": 4.81651376146789,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 13,
+        "percentage": 2.981651376146789,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 14,
+        "percentage": 3.2110091743119265,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "tableau",
+        "name": "Tableau"
+      },
+      {
+        "image": "",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd098",
+    "title": "Business Analytics",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "Excel",
+      "No Coding",
+      "SQL",
+      "Tableau",
+      "Descriptive Statistics",
+      "Spreadsheet",
+      "Analysis",
+      "No programming",
+      "SQL for Data Analysis",
+      "SQL Joins",
+      "Build Dashboard",
+      "Create Dashboard"
+    ],
+    "average_rating": 4.681578947368421,
+    "count": 369,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 298,
+        "percentage": 78.42105263157895,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 54,
+        "percentage": 14.210526315789474,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 21,
+        "percentage": 5.526315789473684,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 3,
+        "percentage": 0.7894736842105263,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 1.0526315789473684,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-tableau-cf029ff.svg",
+        "key": "tableau",
+        "name": "Tableau"
+      },
+      {
+        "image": "https://d1ibls858tcqkq.cloudfront.net/affiliates/logo-color-mode.svg",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd100-ent",
+    "title": "Data Foundations for Enterprise",
+    "level": "beginner",
+    "num_of_projects": 4,
+    "tags": [],
+    "average_rating": 4.5680000000000005,
+    "count": 52,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 102,
+        "percentage": 81.6,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 12,
+        "percentage": 9.6,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 1,
+        "percentage": 0.8,
+        "_id": 3
+      },
+      {
+        "rating": 1,
+        "count": 10,
+        "percentage": 8,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-aws.svg",
+        "key": "aws",
+        "name": "Amazon Web Services"
+      },
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-fb-ai.svg",
+        "key": "fb-ai",
+        "name": "Facebook Artificial Intelligence"
+      }
+    ],
+    "key": "nd101",
+    "title": "Deep Learning",
+    "level": "intermediate",
+    "num_of_projects": 5,
+    "tags": [
+      "Neural Network",
+      "AI",
+      "Pytorch",
+      "Numpy",
+      "CNN",
+      "Machine learning",
+      "Face Recognition",
+      "Facial Recognition System",
+      "Text to speech",
+      "Recommedations",
+      "Training Models",
+      "GAN",
+      "RAN",
+      "Sentiment Analysis"
+    ],
+    "average_rating": 4.639004149377593,
+    "count": 1043,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1661,
+        "percentage": 76.57906869525127,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 350,
+        "percentage": 16.136468418626094,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 88,
+        "percentage": 4.057169202397418,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 23,
+        "percentage": 1.0603964960811434,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 47,
+        "percentage": 2.1668971876440755,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "mode",
+        "name": "Mode"
+      }
+    ],
+    "key": "nd104",
+    "title": "Programming for Data Science with Python",
+    "level": "beginner",
+    "num_of_projects": 3,
+    "tags": [
+      "Data Analytics",
+      "SQL",
+      "SQL join",
+      "Python",
+      "Numpy",
+      "Pandas",
+      "Intro to data Science",
+      "Data Science foundation"
+    ],
+    "average_rating": 4.702380952380952,
+    "count": 239,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 195,
+        "percentage": 77.38095238095238,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 46,
+        "percentage": 18.253968253968253,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 7,
+        "percentage": 2.7777777777777777,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.3968253968253968,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 3,
+        "percentage": 1.1904761904761905,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "unity",
+        "name": "Unity"
+      }
+    ],
+    "key": "nd105",
+    "title": "VR Foundations",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [
+      "Virtual Reality"
+    ],
+    "average_rating": 5,
+    "count": 0,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1,
+        "percentage": 100,
+        "_id": 5
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "unity",
+        "name": "Unity"
+      }
+    ],
+    "key": "nd106",
+    "title": "VR Mobile 360",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Virtual Reality"
+    ],
+    "average_rating": 0,
+    "count": 0,
+    "stats": []
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "unity",
+        "name": "Unity"
+      }
+    ],
+    "key": "nd107",
+    "title": "VR High-Immersion",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Virtual Reality"
+    ],
+    "average_rating": 0,
+    "count": 0,
+    "stats": []
+  },
+  {
+    "affiliates": [],
+    "key": "nd113",
+    "title": "Intro to Self-Driving Cars",
+    "level": "intermediate",
+    "num_of_projects": 8,
+    "tags": [
+      "Self Driving Car",
+      "Automation",
+      "Bayesian Thinking",
+      "Machine Learning",
+      "Computer vision",
+      "Kalman Filter",
+      "C++",
+      "Robotics",
+      "Intro to Autonomous "
+    ],
+    "average_rating": 4.6802168021680215,
+    "count": 224,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 288,
+        "percentage": 78.04878048780488,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 61,
+        "percentage": 16.531165311653115,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 11,
+        "percentage": 2.9810298102981028,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.27100271002710025,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 8,
+        "percentage": 2.168021680216802,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd117",
+    "title": "Learn Unreal VR Foundations",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [],
+    "average_rating": 4.857142857142857,
+    "count": 4,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 6,
+        "percentage": 85.71428571428571,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 1,
+        "percentage": 14.285714285714286,
+        "_id": 4
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd124",
+    "title": "Google Ads",
+    "level": "beginner",
+    "num_of_projects": 2,
+    "tags": [],
+    "average_rating": 4.5,
+    "count": 7,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 24,
+        "percentage": 70.58823529411765,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 6,
+        "percentage": 17.647058823529413,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 1,
+        "percentage": 2.9411764705882355,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 3,
+        "percentage": 8.823529411764707,
+        "_id": 2
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd1309",
+    "title": "Blockchain Developer",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Block chain",
+      "Blockchain",
+      "Backend",
+      "Java script",
+      "JavaScript",
+      "Ethereum",
+      "Data Security ",
+      "Ethereum Dapp",
+      "Zokarates framework",
+      "ZK-SNARKs"
+    ],
+    "average_rating": 4.2967032967032965,
+    "count": 62,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 56,
+        "percentage": 61.53846153846154,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 19,
+        "percentage": 20.87912087912088,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 7,
+        "percentage": 7.6923076923076925,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 5.4945054945054945,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 4.395604395604396,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd201",
+    "title": "Design Sprint Foundations",
+    "level": "beginner",
+    "num_of_projects": 4,
+    "tags": [],
+    "average_rating": 4.547945205479452,
+    "count": 46,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 100,
+        "percentage": 68.4931506849315,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 34,
+        "percentage": 23.28767123287671,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 6,
+        "percentage": 4.109589041095891,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 4,
+        "percentage": 2.73972602739726,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 2,
+        "percentage": 1.36986301369863,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd209",
+    "title": "Robotics Software Engineer",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "ROS",
+      "Gazebo",
+      "Localization",
+      "Mapping",
+      "SLAM",
+      "Navigation",
+      "Robot",
+      "Path planning",
+      "KUKA robot",
+      "Robot Operating System Framework.",
+      "Localization in ROS",
+      "Kalman Filter",
+      "Kalman Fitlers",
+      "KUKA Path Planning"
+    ],
+    "average_rating": 4.468599033816425,
+    "count": 133,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 143,
+        "percentage": 69.08212560386474,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 38,
+        "percentage": 18.357487922705314,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 13,
+        "percentage": 6.280193236714976,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 6,
+        "percentage": 2.898550724637681,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 7,
+        "percentage": 3.3816425120772946,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "google",
+        "name": "Google"
+      },
+      {
+        "image": "",
+        "key": "e-nor",
+        "name": "E-Nor"
+      }
+    ],
+    "key": "nd253",
+    "title": "Google Analytics",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [],
+    "average_rating": 3,
+    "count": 2,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1,
+        "percentage": 50,
+        "_id": 5
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 50,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd787",
+    "title": "Flying Car and Autonomous Flight Engineer",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "Drone",
+      "Drone Robotics",
+      "Flying Car",
+      "Drone Integration",
+      "3d Motion Planning",
+      "Control",
+      "Controls",
+      "Vehicle Dynamics",
+      "GPS",
+      "Fixed-Wing Control"
+    ],
+    "average_rating": 4.487394957983192,
+    "count": 84,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 89,
+        "percentage": 74.78991596638656,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 16,
+        "percentage": 13.445378151260504,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 4,
+        "percentage": 3.361344537815126,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 3,
+        "percentage": 2.5210084033613445,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 7,
+        "percentage": 5.882352941176471,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "https://s3-us-west-1.amazonaws.com/udacity-content/partner/logo-color-google-1c8cf8f.svg",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd801",
+    "title": "Android Developer",
+    "level": "intermediate",
+    "num_of_projects": 14,
+    "tags": [
+      "android",
+      "App Development",
+      "Android App Development",
+      "Flutter ",
+      "Gradle",
+      "Kotlin",
+      "Firebase",
+      "Build android App",
+      "make Android App",
+      "Android Studio",
+      "Fragments",
+      "Widgets",
+      "Android java"
+    ],
+    "average_rating": 4.734921439432337,
+    "count": 901,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1616,
+        "percentage": 81.90572731880386,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 263,
+        "percentage": 13.329954384186518,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 48,
+        "percentage": 2.432843385707045,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 20,
+        "percentage": 1.0136847440446022,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 26,
+        "percentage": 1.3177901672579828,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/images/partners/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd801-br",
+    "title": "Android Developer",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [],
+    "average_rating": 4.653846153846154,
+    "count": 6,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 23,
+        "percentage": 88.46153846153847,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 1,
+        "percentage": 3.8461538461538463,
+        "_id": 4
+      },
+      {
+        "rating": 1,
+        "count": 2,
+        "percentage": 7.6923076923076925,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd803",
+    "title": "Android Basics",
+    "level": "beginner",
+    "num_of_projects": 12,
+    "tags": [
+      "mobile",
+      "apps",
+      "development",
+      "android",
+      "App Development",
+      "Android App Development",
+      "Build android App",
+      "make Android App",
+      "user interface",
+      "Android Studio",
+      "Android",
+      "Android java"
+    ],
+    "average_rating": 4.846097738876733,
+    "count": 1399,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 2415,
+        "percentage": 88.07439824945295,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 270,
+        "percentage": 9.846827133479213,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 34,
+        "percentage": 1.2399708242159009,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 8,
+        "percentage": 0.29175784099197666,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 15,
+        "percentage": 0.5470459518599562,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/images/partners/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+      }
+    ],
+    "key": "nd803-br",
+    "title": "Android Basics",
+    "level": "beginner",
+    "num_of_projects": 0,
+    "tags": [],
+    "average_rating": 4.884615384615385,
+    "count": 5,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 23,
+        "percentage": 88.46153846153847,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 3,
+        "percentage": 11.538461538461538,
+        "_id": 4
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-worldquant.svg",
+        "key": "worldquant",
+        "name": "WorldQuant"
+      }
+    ],
+    "key": "nd880",
+    "title": "Artificial Intelligence for Trading",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "Trading",
+      "World Quant",
+      "quantitative analysis,",
+      "Basic Quantitative Trading",
+      "Quantitative Trading",
+      "Stock Market",
+      "Time Series Modeling",
+      "regression",
+      "Indices",
+      "Stocks",
+      "Sentiment analysis",
+      "neural networks",
+      "Deep learning with pytorch",
+      "Decision Trees",
+      "Backtesting"
+    ],
+    "average_rating": 4.5049504950495045,
+    "count": 185,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 138,
+        "percentage": 68.31683168316832,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 43,
+        "percentage": 21.287128712871286,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 11,
+        "percentage": 5.445544554455446,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 2.4752475247524752,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 5,
+        "percentage": 2.4752475247524752,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "affectiva",
+        "name": "Affectiva"
+      },
+      {
+        "image": "",
+        "key": "nvidia-dli",
+        "name": "Nvidia DLI"
+      }
+    ],
+    "key": "nd891",
+    "title": "Computer Vision",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "CNN",
+      "Recognise Faces",
+      "Image Captioning",
+      "RNN",
+      "Object Tracking",
+      "Localization",
+      "Jupyter notebooks,",
+      "Detection",
+      "Object recognition",
+      "Face Recognition",
+      "Robot Localization",
+      "Graph Slam",
+      "Deep Learning",
+      "Machine learning",
+      "AI"
+    ],
+    "average_rating": 4.591439688715954,
+    "count": 214,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 184,
+        "percentage": 71.59533073929961,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 49,
+        "percentage": 19.06614785992218,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 18,
+        "percentage": 7.003891050583658,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 4,
+        "percentage": 1.556420233463035,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 2,
+        "percentage": 0.7782101167315175,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "",
+        "key": "amazon-alexa",
+        "name": "Amazon Alexa"
+      },
+      {
+        "image": "",
+        "key": "ibm-watson",
+        "name": "IBM Watson"
+      }
+    ],
+    "key": "nd892",
+    "title": "Natural Language Processing",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "nlp",
+      "Deep learning",
+      "neural network",
+      "machine learning",
+      "Speech Tagging",
+      "Voice Recognition",
+      "SIRI",
+      "Speech Recognizer",
+      "Speech Recogniser",
+      "Text Processing",
+      "markov  model",
+      "machine translation",
+      "modelling",
+      "modeling",
+      "Alexa",
+      "Voice user interface",
+      "Automatic speech recognition",
+      "neural networks"
+    ],
+    "average_rating": 4.443037974683544,
+    "count": 129,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 106,
+        "percentage": 67.0886075949367,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 29,
+        "percentage": 18.354430379746834,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 14,
+        "percentage": 8.860759493670885,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 5,
+        "percentage": 3.1645569620253164,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 2.5316455696202533,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [
+      {
+        "image": "/assets/iridium/images/shared/partners/logo-color-unity.svg",
+        "key": "unity",
+        "name": "Unity"
+      },
+      {
+        "image": "",
+        "key": "nvidia-dli",
+        "name": "NVIDIA Deep Learning Institute"
+      }
+    ],
+    "key": "nd893",
+    "title": "Deep Reinforcement Learning",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "Viedeo Games",
+      "neural network",
+      "neural networks",
+      "Robotics",
+      "Machine learning",
+      "Deep learning",
+      "Deep Q-Networks",
+      "DQN",
+      "Deep Deterministic Policy Gradients",
+      "DDPG",
+      "navigation",
+      "Control",
+      "Reinforcement Learning",
+      "Markov Decision Processes",
+      "Monte Carlo method",
+      "Sarsa Algorithms",
+      "Deep learning in pytorch"
+    ],
+    "average_rating": 4.6762589928057565,
+    "count": 117,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 105,
+        "percentage": 75.53956834532374,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 27,
+        "percentage": 19.424460431654676,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 4,
+        "percentage": 2.8776978417266186,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 2,
+        "percentage": 1.4388489208633093,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 1,
+        "percentage": 0.7194244604316546,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": [],
+    "key": "nd898",
+    "title": "Artificial Intelligence",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": [
+      "Deep learning",
+      "Intro to AI",
+      "Hill Climbing",
+      "Genetic Algorithm",
+      "Speech Tagging",
+      "Bayes Networks",
+      "Hidden Markov Models"
+    ],
+    "average_rating": 4.5,
+    "count": 80,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 87,
+        "percentage": 71.31147540983606,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 20,
+        "percentage": 16.39344262295082,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 8,
+        "percentage": 6.557377049180328,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 3,
+        "percentage": 2.459016393442623,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 4,
+        "percentage": 3.278688524590164,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": null,
+    "key": "nd001",
+    "title": "Front End Web Developer",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": [
+      "css",
+      "html",
+      "javascript",
+      "UX Design",
+      "User interface",
+      "Responsive Design",
+      "Java script",
+      "AJAX",
+      "Node",
+      "Webpack",
+      "Web Development ",
+      "Web Developer",
+      "JS",
+      "JavaScript",
+      "jQuery",
+      "HTML/CSS",
+      "HTML and CSS",
+      "HTML",
+      "CSS",
+      "RESTFUL API"
+    ],
+    "average_rating": 4.6639661852765055,
+    "count": 1301,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 2192,
+        "percentage": 77.21028531172948,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 466,
+        "percentage": 16.414230362803803,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 99,
+        "percentage": 3.4871433603381474,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 38,
+        "percentage": 1.3384994716449454,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 44,
+        "percentage": 1.549841493483621,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": null,
+    "key": "nd004",
+    "title": "Full Stack Web Developer Nanodegree",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": null,
+    "average_rating": 4.559016393442623,
+    "count": 504,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 866,
+        "percentage": 70.98360655737704,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 252,
+        "percentage": 20.65573770491803,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 50,
+        "percentage": 4.098360655737705,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 22,
+        "percentage": 1.8032786885245902,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 30,
+        "percentage": 2.459016393442623,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": null,
+    "key": "nd009",
+    "title": "Machine Learning Engineer Nanodegree",
+    "level": "intermediate",
+    "num_of_projects": 0,
+    "tags": null,
+    "average_rating": 4.609374999999999,
+    "count": 669,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 1285,
+        "percentage": 74.36342592592592,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 307,
+        "percentage": 17.766203703703702,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 76,
+        "percentage": 4.398148148148148,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 24,
+        "percentage": 1.3888888888888888,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 36,
+        "percentage": 2.0833333333333335,
+        "_id": 1
+      }
+    ]
+  },
+  {
+    "affiliates": null,
+    "key": "nd185",
+    "title": "Secure and Private AI Scholarship Challenge",
+    "level": "advanced",
+    "num_of_projects": 0,
+    "tags": null,
+    "average_rating": 4.7914110429447865,
+    "count": 105,
+    "stats": [
+      {
+        "rating": 5,
+        "count": 273,
+        "percentage": 83.74233128834356,
+        "_id": 5
+      },
+      {
+        "rating": 4,
+        "count": 45,
+        "percentage": 13.803680981595091,
+        "_id": 4
+      },
+      {
+        "rating": 3,
+        "count": 4,
+        "percentage": 1.2269938650306749,
+        "_id": 3
+      },
+      {
+        "rating": 2,
+        "count": 1,
+        "percentage": 0.3067484662576687,
+        "_id": 2
+      },
+      {
+        "rating": 1,
+        "count": 3,
+        "percentage": 0.9202453987730062,
+        "_id": 1
+      }
+    ]
+  }
+]
