@@ -1,5 +1,9 @@
 # udacity reviews jupyter notebook
 
+### description
+
+jupyter notebook for analyzing reviews based on nanodegrees. (Apr 2020).
+
 ### directory
 ```
 data/
